@@ -7,13 +7,13 @@ Tridactyl colourschemes
 To use this theme run the Tridactyl command:
 
 ```txt
-colourscheme --url https://git.sr.ht/~rasch/tridactyl-theme/blob/main/dracula.css dracula
+colourscheme --url https://cdn.jsdeliver.net/gh/rasch/tridactyl-theme/dracula.min.css dracula
 ```
 
-Or use the Github mirror:
+or to use the drop-down variation:
 
 ```txt
-colourscheme --url https://raw.githubusercontent.com/rasch/tridactyl-theme/main/dracula.css dracula
+colourscheme --url https://cdn.jsdeliver.net/combine/gh/rasch/tridactyl-theme/dracula.min.css,gh/rasch/tridactyl-theme/drop-down.css dracula
 ```
 
 What does it look like?
